@@ -1,0 +1,31 @@
+PROJECT 1: DATA CLEANING AND PREPARATION
+
+Objective:
+To analyze and clean the given dataset using Python and Pandas.
+
+Tools Used:
+
+* Python 3.8
+* Pandas
+* Microsoft Excel
+* Notepad++
+
+Tasks Performed:
+
+1. Loaded the dataset using Pandas.
+2. Checked for missing values.
+3. Checked for duplicate records.
+4. Verified data consistency.
+5. Generated a cleaned dataset.
+
+Results:
+
+* Total Records: 1200
+* Total Columns: 14
+* Missing Values Found: 309 (CouponCode column)
+* Duplicate Rows: 0
+* Duplicate Order IDs: 0
+* Invalid Dates: 0
+
+Conclusion:
+The dataset was successfully analyzed and cleaned. Missing values were identified, duplicate checks were performed, and the cleaned dataset was generated successfully.
