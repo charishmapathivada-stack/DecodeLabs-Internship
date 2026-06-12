@@ -1,0 +1,57 @@
+PROJECT 2: EXPLORATORY DATA ANALYSIS (EDA)
+
+Objective:
+The objective of this project was to perform Exploratory Data Analysis (EDA) on the cleaned dataset to identify patterns, trends, distributions, and business insights using Python, Pandas, and Matplotlib.
+
+Tools Used:
+• Python 3.8
+• Pandas
+• Matplotlib
+• Microsoft Excel
+• Notepad++
+
+Dataset Overview:
+• Total Records: 1200
+• Total Columns: 14
+• Dataset Type: E-commerce Sales Data
+
+Tasks Performed:
+
+1. Loaded and explored the dataset.
+2. Calculated basic statistics such as count, mean, median, minimum, and maximum values.
+3. Analyzed total revenue and total orders.
+4. Identified top-selling products.
+5. Examined payment method preferences.
+6. Analyzed order status distribution.
+7. Evaluated referral source performance.
+8. Detected outliers using the IQR (Interquartile Range) method.
+9. Created visualizations to understand trends and distributions.
+10. Summarized key business insights.
+
+Key Findings:
+• Total Revenue Generated: ₹1,264,761.96
+• Total Orders Processed: 1200
+• Printer was the highest-selling product.
+• Tablet, Chair, Laptop, and Desk were among the top-selling products.
+• Customer payment preferences varied across multiple payment methods.
+• Referral sources contributed significantly to customer acquisition.
+• Monthly revenue trends helped identify sales performance over time.
+• Outliers were identified and analyzed using statistical techniques.
+
+Charts Created:
+
+1. Top 5 Selling Products
+2. Payment Method Distribution
+3. Order Status Distribution
+4. Referral Source Analysis
+5. Monthly Revenue Trend
+
+Observations:
+• Product sales were distributed across multiple categories, with Printers showing the highest demand.
+• Revenue generation remained strong across the dataset.
+• Customer purchasing behavior varied based on payment methods and referral sources.
+• The dataset provided meaningful insights into sales performance and customer engagement.
+• Visualizations helped reveal patterns and trends that were not immediately visible in raw data.
+
+Conclusion:
+Exploratory Data Analysis was successfully performed on the dataset. Statistical analysis, trend identification, outlier detection, and data visualization provided valuable business insights. The project demonstrated the practical application of data analysis techniques and enhanced understanding of customer behavior, product performance, and revenue trends.
