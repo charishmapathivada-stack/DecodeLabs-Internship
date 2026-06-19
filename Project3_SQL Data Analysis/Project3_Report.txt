@@ -1,0 +1,52 @@
+Project 3: Employee Database Management Using SQLite
+
+Objective:
+
+The objective of this project is to create and manage a database using SQLite and Python. The project demonstrates how to create a database, store employee information, and perform SQL queries to retrieve meaningful insights from the data.
+
+Tools Used:
+
+* Python 3.8
+* SQLite3
+* Windows 7
+* Command Prompt
+
+Database Used:
+
+* company.db
+
+Description:
+
+In this project, an Employee database was created using SQLite. Employee records containing Employee ID, Name, Department, and Salary were inserted into the database. Various SQL queries were executed using Python to analyze the stored data.
+
+Tasks Performed:
+
+1. Created a SQLite database named company.db.
+2. Created an Employees table.
+3. Inserted employee records into the table.
+4. Retrieved all employee details.
+5. Displayed employees with salary greater than 50000.
+6. Counted employees department-wise using GROUP BY.
+7. Calculated the average salary of employees using aggregate functions.
+
+SQL Concepts Used:
+
+* CREATE TABLE
+* INSERT INTO
+* SELECT
+* WHERE
+* GROUP BY
+* COUNT()
+* AVG()
+
+Output:
+
+* Successfully created the database.
+* Retrieved employee records.
+* Filtered employees based on salary conditions.
+* Generated department-wise employee count.
+* Calculated average employee salary.
+
+Conclusion:
+
+This project helped in understanding the fundamentals of SQLite database management using Python. It provided practical experience in creating databases, storing records, and executing SQL queries for data analysis.
