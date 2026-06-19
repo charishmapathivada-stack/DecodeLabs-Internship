@@ -1,0 +1,26 @@
+Project Title: Data Visualization using Python
+
+Objective:
+To visualize E-commerce sales data and derive business insights.
+
+Tools Used:
+- Python
+- Pandas
+- Matplotlib
+
+Charts Created:
+1. Revenue by Product
+2. Payment Method Distribution
+3. Order Status Distribution
+4. Referral Source Distribution
+5. Quantity vs Total Price
+
+Insights:
+- Some products generate higher revenue than others.
+- Customers use multiple payment methods.
+- Most orders are successfully shipped or delivered.
+- Different referral sources contribute differently.
+- Higher quantity generally leads to higher total price.
+
+Conclusion:
+Data visualization helps identify sales trends and customer behavior patterns.
